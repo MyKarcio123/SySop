@@ -1,0 +1,9 @@
+init 50
+count text.txt
+count main.c
+show 1
+show 0
+delete 0
+show 0
+delete 1
+destroy

@@ -1,0 +1,64 @@
+STATIC:
+Została stworzona tablica o rozmiarze 50
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Zostały zliczone słowa i linie
+czas rzeczywisty: 0.010000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Zostały zliczone słowa i linie
+czas rzeczywisty: 0.010000, czas uzytkownika 0.000000, czas systemu 0.000000 
+ 108  315 3943 main.c
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+14 14 53 text.txt
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Element tablicy zostały usunięte z pamięci
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+ 108  315 3943 main.c
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Brak takiego elementu tablicy!
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Tablica została usunięta z pamięci
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+
+
+DYNAMIC:
+Została stworzona tablica o rozmiarze 50
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Zostały zliczone słowa i linie
+czas rzeczywisty: 0.010000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Zostały zliczone słowa i linie
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+ 108  315 3943 main.c
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+14 14 53 text.txt
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Element tablicy zostały usunięte z pamięci
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+ 108  315 3943 main.c
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Brak takiego elementu tablicy!
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Tablica została usunięta z pamięci
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+
+
+SHARED:
+Została stworzona tablica o rozmiarze 50
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Zostały zliczone słowa i linie
+czas rzeczywisty: 0.010000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Zostały zliczone słowa i linie
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+ 108  315 3943 main.c
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+14 14 53 text.txt
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Element tablicy zostały usunięte z pamięci
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+ 108  315 3943 main.c
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Brak takiego elementu tablicy!
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+Tablica została usunięta z pamięci
+czas rzeczywisty: 0.000000, czas uzytkownika 0.000000, czas systemu 0.000000 
+
+----------------------------------------------------------------------------
+Można zaobserwować że biblioteka statyczna działa najdłużej, natomiast shared i dynamic dzaiałają szybciej, w podobnych czasach.
